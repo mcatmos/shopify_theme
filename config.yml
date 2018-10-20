@@ -1,0 +1,11 @@
+development:
+ store: gonzalo-trial.myshopify.com
+ password: 8785df32edb41abc563e428eedec481b
+ theme_id: "live"
+ bucket_size: 40
+ refill_rate: 2
+ ingonore_files:
+  - "*.swp"
+  - "*~"
+  - "config/settings_data.json"
+
